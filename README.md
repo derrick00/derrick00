@@ -1,4 +1,4 @@
-Hi 👋 My name is Derrick Kariuki
+Hi 👋 My name is Derrick Muturi
 =============================
 
 I am a Full-Stack Web Developer
