@@ -4,7 +4,7 @@ Hi 👋 My name is Derrick Kariuki
 I am a Full-Stack Web Developer
 ------------------------------------
 
- I am a passionate full-stack web developer with expertise in building dynamic and user-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript, I craft intuitive front-end interfaces that provide a seamless user experience. On the back-end, I excel in languages like Python, designing efficient server-side architectures and integrating with databases. I thrive on the challenges of creating robust and scalable solutions, utilizing the latest technologies and frameworks. Let's collaborate and bring your web projects to life! Explore my repositories to see some of my exciting work in action.
+ I am a passionate web developer with expertise in building dynamic and user-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript, I craft intuitive front-end interfaces that provide a seamless user experience. On the back-end, I excel in languages like Python, designing efficient server-side architectures and integrating with databases. I thrive on the challenges of creating robust and scalable solutions, utilizing the latest technologies and frameworks. Let's collaborate and bring your web projects to life! Explore my repositories to see some of my exciting work in action.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [muturiderrick10@gmail.com](mailto:muturiderrick10@gmail.com)
