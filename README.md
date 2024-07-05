@@ -8,7 +8,7 @@ I am a Full-Stack Web Developer
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [muturiderrick10@gmail.com](mailto:muturiderrick10@gmail.com)
-* 🧠  I'm learning Flutter.
+* 🧠  I'm learning Nodejs.
 * 🤝  I'm open to collaborating on exciting projects.
 ### Skills
 
